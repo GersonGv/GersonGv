@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GersonGv
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Airflow and Spark
+- 🌱 I’m currently mastering Airflow and Spark
 - 💞️ I’m looking to collaborate on social proyects that are very focus on data
 - 📫 How to reach me. Via twitter https://twitter.com/GvGers
 
